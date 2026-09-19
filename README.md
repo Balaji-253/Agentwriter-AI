@@ -116,6 +116,7 @@ Before running the agent, ensure the following are available:
 Pull the default model used by the workflow:
 
 ```bash
+ollama list
 ollama pull llama3.1:8b
 ```
 
@@ -145,7 +146,7 @@ Notes:
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Balaji-253/Agentwriter-AI.git
 cd Agentwriter-AI
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
