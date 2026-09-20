@@ -3,7 +3,7 @@
 An advanced AI-powered technical writing engine that transforms a single topic prompt into a structured, research-aware blog article. The system combines LangGraph orchestration, FastAPI streaming, local LLM inference via Ollama, web research, and article assembly into a polished markdown generation pipeline.
 
 <p align="center">
-  <img alt="Agentwriter-AI architecture" src="https://img.shields.io/badge/AI-Agent%20Writer-Production%20Ready-0A84FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Agentwriter-AI architecture" src="https://img.shields.io/badge/Agentwriter%20AI-Production%20Ready-0A84FF?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Orchestration-4B8BBE?style=for-the-badge" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-API%20Layer-009688?style=for-the-badge" />
   <img alt="Ollama" src="https://img.shields.io/badge/Ollama-Local%20LLM-FF6F61?style=for-the-badge" />
